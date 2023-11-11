@@ -21,7 +21,7 @@
         "id": 21988,
         "label": "Imagem de fundo",
         "name": "APP_BACKGROUND_IMAGE",
-        "value": "https://i.imgur.com/KBDrAyZ.jpg",
+        "value": "",
         "type": "IMAGE",
         "status": "INACTIVE",
         "user_id": "72220ba2-dafc-4ba7-b4ec-f98f0cf6b60b"
@@ -123,7 +123,7 @@
         "id": 21998,
         "label": "Cor das bordas",
         "name": "APP_BORDER_COLOR",
-        "value": "#ffffff50",
+        "value": "#00000000",
         "type": "COLOR",
         "status": "ACTIVE",
         "user_id": "72220ba2-dafc-4ba7-b4ec-f98f0cf6b60b"
