@@ -31,7 +31,7 @@
     "icon": "https://i.imgur.com/JNeUqdU.png",
     "id": 1100,
     "mode": "SSH_PROXY",
-    "name": "VIVO WSS 1",
+    "name": "VIVO WSS 1🤏",
     "proxy": {
       "host": "209.14.68.152",
       "port": 80
