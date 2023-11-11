@@ -12,7 +12,7 @@
         "id": 21987,
         "label": "Logo do app",
         "name": "APP_LOGO",
-        "value": "https://i.igur.com/Eq8H9yO.png",
+        "value": "https://i.imgur.com/Eq8H9yO.png",
         "type": "IMAGE",
         "status": "ACTIVE",
         "user_id": "72220ba2-dafc-4ba7-b4ec-f98f0cf6b60b"
