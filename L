@@ -51,7 +51,7 @@
         "id": 21990,
         "label": "Cor de fundo",
         "name": "APP_BACKGROUND_COLOR",
-        "value": "#000000",
+        "value": "#00000000",
         "type": "COLOR",
         "status": "ACTIVE",
         "user_id": "72220ba2-dafc-4ba7-b4ec-f98f0cf6b60b"
