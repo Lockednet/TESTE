@@ -186,7 +186,7 @@
         "id": 22005,
         "label": "Exibir modo de conexão",
         "name": "APP_SHOW_CONNECTION_MODE",
-        "value": true,
+        "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
         "user_id": "72220ba2-dafc-4ba7-b4ec-f98f0cf6b60b"
@@ -222,7 +222,7 @@
         "id": 22008,
         "label": "Usar botão de atualizações",
         "name": "APP_BTN_UPDATE_ENABLED",
-        "value": true,
+        "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
         "user_id": "72220ba2-dafc-4ba7-b4ec-f98f0cf6b60b"
@@ -231,7 +231,7 @@
         "id": 22009,
         "label": "Usar botão de registros",
         "name": "APP_BTN_LOGGER_ENABLED",
-        "value": true,
+        "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
         "user_id": "72220ba2-dafc-4ba7-b4ec-f98f0cf6b60b"
