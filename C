@@ -33,11 +33,11 @@
   "mode": "SSH_PROXY",
   "name": "SERVIDOR 1",
   "proxy": {
-    "host": "vos1.allproxy.cloud",
+    "host": "vps1.allproxy.cloud",
     "port": 80
   },
   "server": {
-    "host": "vos1.allproxy.cloud",
+    "host": "vps1.allproxy.cloud",
     "port": 80
   },
   "sorter": 1,
